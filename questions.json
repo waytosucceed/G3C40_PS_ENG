@@ -1,0 +1,250 @@
+{
+  "heading": "Punctuation",
+  "topics": [
+    {
+      "heading": "Punctuation",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which punctuation mark shows a short pause in a sentence?",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 1,
+          "explanation": "The comma (,) is used to show a short pause in a sentence. It helps us separate ideas or items in a list."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: <br> The cat is sleeping ___",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 0,
+          "explanation": "This is a simple statement, so we use a full stop (.) at the end. It tells us the sentence is complete."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence uses an exclamation mark?",
+          "options": [
+            { "text": "I won the race" },
+            { "text": "I won the race." },
+            { "text": "I won the race!" },
+            { "text": "I won the race," }
+          ],
+          "answer": 2,
+          "explanation": "We use an exclamation mark (!) to show excitement or strong feelings. Winning a race is exciting, so an exclamation mark fits well here."
+        },
+        {
+          "questionNo": 4,
+          "question": "Where does the question mark go in this sentence? 'What time is dinner'",
+          "options": [
+            { "text": "What? time is dinner" },
+            { "text": "What time? is dinner" },
+            { "text": "What time is? dinner" },
+            { "text": "What time is dinner?" }
+          ],
+          "answer": 3,
+          "explanation": "This whole sentence is asking about dinner time, so it's a question. We put the question mark (?) at the very end of a question."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank: <br> I like apples ___ oranges ___ and bananas.",
+          "options": [
+            { "text": ". ," },
+            { "text": ", ," },
+            { "text": "! ," },
+            { "text": ", ?" }
+          ],
+          "answer": 1,
+          "explanation": "In a list of things, we use commas (,) to separate each item. We need a comma after 'apples' and another after 'oranges' to properly list the fruits."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence is punctuated correctly?",
+          "options": [
+            { "text": "Do you want to play" },
+            { "text": "Do you want to play." },
+            { "text": "Do you want to play!" },
+            { "text": "Do you want to play?" }
+          ],
+          "answer": 3,
+          "explanation": "This sentence is asking if someone wants to play, so it's a question. We end questions with a question mark (?)."
+        },
+        {
+          "questionNo": 7,
+          "question": "Where does the comma go in this sentence? 'After school I like to play read and draw.'",
+          "options": [
+            { "text": "After school, I like to play read and draw." },
+            { "text": "After school I like to play, read and draw." },
+            { "text": "After school I like to play read, and draw." },
+            { "text": "After school, I like to play, read, and draw." }
+          ],
+          "answer": 3,
+          "explanation": "We need a comma after 'After school' because it's an introductory phrase. We also need commas to separate the list of activities: play, read, and draw."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank: <br>Wow ___ That's a huge sandwich ___",
+          "options": [
+            { "text": ". ." },
+            { "text": ", ," },
+            { "text": "! !" },
+            { "text": "? ?" }
+          ],
+          "answer": 2,
+          "explanation": "Both 'Wow' and 'That's a huge sandwich' show surprise or excitement, so we use exclamation marks (!) for both."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank:<br> Do you prefer summer or winter ___",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 3,
+          "explanation": "This sentence is asking about a preference between summer and winter, so it's a question. We end questions with a question mark (?)."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which sentence is punctuated correctly?",
+          "options": [
+            { "text": "The movie was scary" },
+            { "text": "The movie was scary," },
+            { "text": "The movie was scary." },
+            { "text": "The movie was scary?" }
+          ],
+          "answer": 2,
+          "explanation": "This is a simple statement about the movie. We end statements with a full stop (.)."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which punctuation mark do we use after 'Dear Grandma' in a letter?",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 1,
+          "explanation": "In a letter, we use a comma after the greeting. So 'Dear Grandma,' is correct."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank: <br>May I have some ice cream ___",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 3,
+          "explanation": "This sentence is asking for permission to have ice cream, so it's a question. We end questions with a question mark (?)."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which sentence is punctuated correctly?",
+          "options": [
+            { "text": "We need eggs milk and bread." },
+            { "text": "We need eggs, milk, and bread." },
+            { "text": "We need eggs milk, and, bread." },
+            { "text": "We need eggs milk, and bread." }
+          ],
+          "answer": 1,
+          "explanation": "In a list of three or more items, we put commas between each item, including before the 'and'."
+        },
+        {
+          "questionNo": 14,
+          "question": "Where does the full stop go in this sentence? 'The flowers smell nice'",
+          "options": [
+            { "text": "The flowers. smell nice" },
+            { "text": "The flowers smell. nice" },
+            { "text": "The flowers smell nice." },
+            { "text": "The. flowers smell nice" }
+          ],
+          "answer": 2,
+          "explanation": "A full stop (.) goes at the very end of a complete sentence. It shows that the thought is finished."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank:<br> Who is your best friend ___",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 3,
+          "explanation": "This sentence is asking about someone's best friend, so it's a question. We end questions with a question mark (?)."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which sentence is punctuated correctly?",
+          "options": [
+            { "text": "The sun is shining bright!" },
+            { "text": "The sun is shining bright," },
+            { "text": "The sun is shining bright." },
+            { "text": "The sun is shining bright?" }
+          ],
+          "answer": 2,
+          "explanation": "This is a simple statement about the sun shining. We end statements with a full stop (.) unless they show strong emotion or ask a question."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which punctuation mark shows strong feelings or emotions?",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 2,
+          "explanation": "The exclamation mark (!) is used to show strong feelings, or emotions, or to emphasize something important."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank: <br>Can you tie your shoelaces ___",
+          "options": [
+            { "text": "." },
+            { "text": "," },
+            { "text": "!" },
+            { "text": "?" }
+          ],
+          "answer": 3,
+          "explanation": "This sentence is asking if someone can tie their shoelaces, so it's a question. We end questions with a question mark (?)."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Suspense" },
+            { "text": "Suspence" },
+            { "text": "Sespense" },
+            { "text": "Suspance" }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is S-U-S-P-E-N-S-E. It is the feeling of excitement or worries that you have when you feel something is going to happen, when you are waiting for news, etc."
+        },
+        {
+          "questionNo": 20,
+          "question": "Where does the question mark go in this sentence? 'When is your birthday'",
+          "options": [
+            { "text": "When? is your birthday" },
+            { "text": "When is? your birthday" },
+            { "text": "When is your? birthday" },
+            { "text": "When is your birthday?" }
+          ],
+          "answer": 3,
+          "explanation": "This entire sentence is asking about someone's birthday, so it's a question. We put the question mark (?) at the very end of a question."
+        }
+      ]
+    }
+  ]
+}
